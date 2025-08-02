@@ -74,7 +74,7 @@ body {
     background-color: var(--white);
 }
 
-#qr-code-img {
+.qr-code-img {
     width: 288px;
     height: 288px;
     border-radius: 10px;
