@@ -53,12 +53,8 @@
     margin: 0;
     padding: 0;
 }
-
-html, main, body {
-    height: 100%;
-}
-
-body {
+main {
+    height: 100vh;
     background-color: var(--slate-300);
 }
 
