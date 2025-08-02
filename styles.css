@@ -88,6 +88,9 @@ body {
     padding: 0 var(--spacing-200) 0 var(--spacing-200);
     text-align: center;
 }
+.qr-caption p {
+    margin: 0;
+}
 
 .qr-caption .title {
     margin-bottom: var(--spacing-200);
