@@ -5,12 +5,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+- [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 
 ## Overview
 QR Code Component challenge is about building a simple card component centered in the screen with QR code image in it along with text describing the use of the QR code. Frontend Mentor provides the challenges with a Figma design file to give a real professional development experience.
+
+## Links
+[QR Code Page](https://ahmed-araby.github.io/QR-Code-Card/)
 
 ### Screenshot
 
