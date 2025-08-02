@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 36d5bd3c6df33d6cc159433499d7ab26fe2afbbb Ahmed Araby <ahmedaraby605@gmail.com> 1753977339 +0300	commit (initial): init the QR component project
+36d5bd3c6df33d6cc159433499d7ab26fe2afbbb 62f682a436e183e71208bfa4459352558ae5ed3a Ahmed Araby <ahmedaraby605@gmail.com> 1753979160 +0300	commit: define the design system variables
+62f682a436e183e71208bfa4459352558ae5ed3a ba3eaabfce20a219639c0187140149e78a95734e Ahmed Araby <ahmedaraby605@gmail.com> 1754069375 +0300	commit: define css variables for the blue color degrees from the design system
+ba3eaabfce20a219639c0187140149e78a95734e 0f02e5ecb12fe8caadd949526128fb12d7439ca5 Ahmed Araby <ahmedaraby605@gmail.com> 1754069442 +0300	commit: set height of html, main and body elements to 100%
+0f02e5ecb12fe8caadd949526128fb12d7439ca5 7e4f16ec7d7ae13bbcd1f38cf59dec806ecaf152 Ahmed Araby <ahmedaraby605@gmail.com> 1754069500 +0300	commit: remove body elements margins to prevent scrolling
+7e4f16ec7d7ae13bbcd1f38cf59dec806ecaf152 8d412068b858dd1c903fbe7bb68fb92eff494e87 Ahmed Araby <ahmedaraby605@gmail.com> 1754069539 +0300	commit (amend): style the body element
+8d412068b858dd1c903fbe7bb68fb92eff494e87 b43a261d50116c17edbf13c9be4648f1f72e8262 Ahmed Araby <ahmedaraby605@gmail.com> 1754069567 +0300	commit (amend): style the body element
+b43a261d50116c17edbf13c9be4648f1f72e8262 16c7d597c9ac134a47be16a235d9824bf8f76177 Ahmed Araby <ahmedaraby605@gmail.com> 1754069643 +0300	commit: layout the html structure for the QR code image and its text
+16c7d597c9ac134a47be16a235d9824bf8f76177 1f7be2050bc2f0669f30228b191cdfc3a38988af Ahmed Araby <ahmedaraby605@gmail.com> 1754069677 +0300	commit: style the QR code image
+1f7be2050bc2f0669f30228b191cdfc3a38988af a6d06b0097de5b736533464d66886770b5faea03 Ahmed Araby <ahmedaraby605@gmail.com> 1754070389 +0300	commit: style the QR caption
+a6d06b0097de5b736533464d66886770b5faea03 e125c9002ca3fc7a5b3bc70b76312d208173ac67 Ahmed Araby <ahmedaraby605@gmail.com> 1754071069 +0300	commit: center the QR figure horizontally and vertically within the viewport
+e125c9002ca3fc7a5b3bc70b76312d208173ac67 9cc0a9a3ffadd1dba54090eb0f66f52f46cbdaf7 Ahmed Araby <ahmedaraby605@gmail.com> 1754071959 +0300	commit: remove the page icon
+9cc0a9a3ffadd1dba54090eb0f66f52f46cbdaf7 638869526ee376f4d4599308a2613319f866fa49 Ahmed Araby <ahmedaraby605@gmail.com> 1754071981 +0300	commit: set page title to 'QR Code'
+638869526ee376f4d4599308a2613319f866fa49 0cbd5aa14974bec459b8cc54c2b90eecea2b984d Ahmed Araby <ahmedaraby605@gmail.com> 1754071999 +0300	commit (amend): set page title to 'QR Code'
+0cbd5aa14974bec459b8cc54c2b90eecea2b984d 1f9bcb185a5427fcfb7b394d9e18826620d8908c Ahmed Araby <ahmedaraby605@gmail.com> 1754072010 +0300	commit (amend): set page title to 'QR Code'
+1f9bcb185a5427fcfb7b394d9e18826620d8908c b4641a4e9ead5937127d916d8a4e56b43343848c Ahmed Araby <ahmedaraby605@gmail.com> 1754072105 +0300	commit: FIX BUG: set font-weight of the preset 2 text to 400 instead of the unidentified word 'regular'
+b4641a4e9ead5937127d916d8a4e56b43343848c d3620353308d94487b09305650423a79633ce3d4 Ahmed Araby <ahmedaraby605@gmail.com> 1754072191 +0300	commit: set text color for the preset 1 and preset 2 text
+d3620353308d94487b09305650423a79633ce3d4 8d8be5749b44f9ece7fc8e6380cb4e285dc515a8 Ahmed Araby <ahmedaraby605@gmail.com> 1754072223 +0300	commit: customize the QR details text style
+8d8be5749b44f9ece7fc8e6380cb4e285dc515a8 fd6752a01ae4c9161bed22f81bbcac6be983af51 Ahmed Araby <ahmedaraby605@gmail.com> 1754083907 +0300	commit: write README file
