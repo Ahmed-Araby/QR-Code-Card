@@ -9,8 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 QR Code Component challenge is about building a simple card component centered in the screen with QR code image in it along with text describing the use of the QR code. Frontend Mentor provides the challenges with a Figma design file to give a real professional development experience.
 
