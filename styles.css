@@ -65,7 +65,7 @@ body {
 
 .qr-container {
     box-sizing: border-box;
-    width: 320px;
+    width: 20rem;
     height: 499px;
     padding: var(--spacing-200) var(--spacing-200) 0 var(--spacing-200);
     border-radius: 20px;
