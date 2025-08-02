@@ -72,6 +72,8 @@ body {
     margin: 0;
 
     background-color: var(--white);
+
+    filter: drop-shadow(0 25px 25px rgb(0 0 0 / 4.77%));
 }
 
 .qr-code-img {
